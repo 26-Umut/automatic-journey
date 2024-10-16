@@ -1,0 +1,49 @@
+C
+
+Merhaba MIS, algoritma ve programlama C işlem süresi: 0.041696 saniye
+
+=== Code Execution Successful ===
+
+C++
+
+Merhaba MIS, algoritma ve programlama C++ işlem süresi: 0.047534 saniye
+
+=== Code Execution Successful ===
+
+C#
+
+Merhaba MIS, algoritma ve programlama dersi ba?lad? C# i?lem s?resi: 0.1292156 saniye
+
+=== Code Execution Successful ===
+
+Java
+
+Merhaba MIS, algoritma ve programlama dersi başladı Java işlem süresi: 78.502186 milisaniye
+
+node js
+
+Merhaba MIS, algoritma ve programlama dersi başladı JavaScript işlem süresi: 142.630 milisaniye
+
+go
+
+Merhaba MIS, algoritma ve programlama Go işlem süresi: 14.73µs saniye
+
+Rust
+
+Merhaba MIS, algoritma ve programlama Rust işlem süresi: 17.984µs
+
+[Execution complete with exit code 0]
+
+Ruby
+
+Merhaba MIS, algoritma ve programlama Ruby işlem süresi: 3.8678e-03 saniye
+
+Perl
+
+Merhaba MIS, algoritma ve programlama Perl işlem süresi: 0.000043 saniye
+
+Python
+
+Merhaba MIS, algoritma ve programlama dersi başladı Python işlem süresi: 2.712016285363149 saniye
+
+=== Code Execution Successful ===
